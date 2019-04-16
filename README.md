@@ -1,6 +1,7 @@
 You can download each dataset using:
-
+```cli
 python generate_cifar_tfrecords.py --data-dir=./cifar10 --dataset cifar10
+```
 
 Then you can run RI-SGD using this script:
 
