@@ -28,4 +28,4 @@ python main.py --data-dir=./cifar10 \
                 --dataset cifar10 \
                 --eval-batch-size=128
 ```
-where redundancy is equal to $mu$ in paper and sync-step is equal to $tau$ in paper.
+where redundancy is equal to $`\mu`$ in paper and sync-step is equal to $tau$ in paper.
