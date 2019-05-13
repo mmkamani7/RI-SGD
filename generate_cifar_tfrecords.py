@@ -18,6 +18,16 @@ from six.moves import cPickle as pickle
 from six.moves import xrange  # pylint: disable=redefined-builtin
 import tensorflow as tf
 
+"""
+__author__ = "Mohammad Mahdi Kamani"
+__copyright__ = "Copyright 2019, Mohammad Mahdi Kamani"
+
+__license__ = "MIT"
+__version__ = "0.0.1"
+__maintainer__ = "Mohammad Madhi Kamani"
+__status__ = "Prototype"
+"""
+
 
 CIFAR_DOWNLOAD_URL = 'https://www.cs.toronto.edu/~kriz/' 
 
