@@ -1,3 +1,10 @@
+This is a preliminary implementation of the paper:
+
+Haddadpour, F.,  Kamani, M.M., Mahdavi, M., & Cadambe, V.
+"Trading Redundancy for Communication: Speeding up Distributed SGD for Non-convex Optimization."
+International Conference on Machine Learning. 2019.
+
+
 You can download each dataset using:
 ```cli
 python generate_cifar_tfrecords.py --data-dir=./cifar10 --dataset cifar10
