@@ -1,4 +1,4 @@
-This is a preliminary implementation of the paper:
+This is a preliminary implementation of the ICML 2019 paper:
 
 Haddadpour, F.,  Kamani, M.M., Mahdavi, M., & Cadambe, V.
 "Trading Redundancy for Communication: Speeding up Distributed SGD for Non-convex Optimization."
